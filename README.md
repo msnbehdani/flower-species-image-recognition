@@ -1,2 +1,2 @@
 # flower-species-image-recognition
-Deep learning project for classifying flower species (daisy, dandelion, roses, sunflowers, tulips) using CNN with TensorFlow/Keras.
+Image classification project using Convolutional Neural Networks (CNN) to identify five flower species using the TensorFlow Flowers dataset.

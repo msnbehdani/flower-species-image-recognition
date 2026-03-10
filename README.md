@@ -1,4 +1,5 @@
 # flower-species-image-recognition
+<<<<<<< HEAD
 
 
 
@@ -80,3 +81,6 @@ models/      trained model
 
 results/     evaluation outputs
 
+=======
+Image classification project using Convolutional Neural Networks (CNN) to identify five flower species using the TensorFlow Flowers dataset.
+>>>>>>> 1483d5d5094ddd7206b1057986ce02e5ca22fbcb
